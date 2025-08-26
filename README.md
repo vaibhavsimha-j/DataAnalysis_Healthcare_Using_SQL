@@ -13,7 +13,6 @@ The problem set covers:
 - Pharmacy inventory, prescriptions, and taxes  
 - State and city-wise healthcare analysis  
 
----
 
 ## Repo Structure  
 
@@ -27,6 +26,7 @@ The problem set covers:
 | Healthcare_SQL_11-15.sql | Solutions for Problem Statements 11–15       |
 | README.md                | Project overview and documentation                |
 | requirements.txt         | (Optional) Lists database/tool dependencies       |
+
 
 
 ## Key Problem Statements  
@@ -47,14 +47,14 @@ The problem set covers:
 - **State-wise Health Report:** People, patients, and ratio per state.  
 - **Pharmacy Medicine Tax Report (Arizona):** Medicines prescribed under Tax criteria I.  
 
----
+
 
 ## Tech Stack  
 
 - **SQL (MySQL / PostgreSQL / Oracle compatible)**  
 - Query optimization, joins, group by, subqueries, window functions  
 
----
+
 
 ## Learning Outcomes  
 
