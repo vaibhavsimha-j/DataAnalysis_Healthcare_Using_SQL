@@ -3,7 +3,6 @@
 This project contains **15 SQL problem statements** related to healthcare data, insurance, pharmacies, and treatment records.  
 Each problem is solved using optimized SQL queries that highlight skills in **data extraction, aggregation, joins, filtering, and reporting**.  
 
----
 
 ## Problem Domains  
 
