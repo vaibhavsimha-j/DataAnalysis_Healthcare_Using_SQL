@@ -25,7 +25,6 @@ The problem set covers:
 | Healthcare_SQL_06-10.sql | Solutions for Problem Statements 6–10        |
 | Healthcare_SQL_11-15.sql | Solutions for Problem Statements 11–15       |
 | README.md                | Project overview and documentation                |
-| requirements.txt         | (Optional) Lists database/tool dependencies       |
 
 
 
